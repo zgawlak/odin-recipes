@@ -1,3 +1,43 @@
 * {
     box-sizing: border-box;
 }
+
+body {
+    font-family: 'Lexend Peta', sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    color: #00008B;
+    letter-spacing: 3px;
+    text-align: center;
+    margin: 100px 0 -1px 0;
+    text-transform: uppercase;
+}
+
+.list-container {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    list-style-type: "- ";
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: underline dotted;
+}
+
+.gif {
+    margin: 20px auto;
+    display: block;
+    box-shadow: 0 0 10px #000;
+    border-radius: 5px;
+}
