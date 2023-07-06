@@ -45,7 +45,7 @@ h1 {
     font-family: 'Karla', sans-serif;
 }
 
-ul {
+ul.recipe-list {
     text-align: left;
     display: inline-block;
 }
@@ -58,10 +58,6 @@ a {
 
 a:hover {
     text-decoration: #a28639 underline wavy 2px;
-}
-
-hr {
-    border-color: #efe7d2;
 }
 
 .gif {
