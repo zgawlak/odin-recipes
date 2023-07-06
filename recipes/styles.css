@@ -10,7 +10,7 @@ body {
     margin: 0;
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-family: 'Karla', sans-serif;
     color: #8f7732;
     text-transform: uppercase;
@@ -73,6 +73,11 @@ img {
 .steps {
     text-align: left;
     display: inline-block;
+}
+
+.ingredients2 {
+    text-align: left;
+    display: block;
 }
 
 .steps li::marker {
